@@ -6,6 +6,5 @@ A web tool that helps you preview a background before you apply it to your conso
   
 ## 使用方法
 ### 选择图片
-![](/images/chooseImage.gif)
 ### 清空图片
 ### 切换显示
