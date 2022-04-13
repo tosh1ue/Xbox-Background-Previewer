@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Xbox Background Previewer
 
 You can use the [editor on GitHub](https://github.com/tosh1ue/Xbox-Background-Previewer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
