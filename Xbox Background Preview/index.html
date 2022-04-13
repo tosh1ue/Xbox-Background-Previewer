@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./images/favicon.ico">
+    <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="./css/switch.css">
+    <title>Xbox壁纸预览</title>
+</head>
+<body>
+    <div id="container">
+        <div id="pictures">
+            <img src="./images/placeholder.jpg" id="placeholder">
+            <img src="" id="background">
+            <img src="./images/foreground.png" id="foreground">
+        </div>
+        <div id="functions">
+            <div id="selectImage">
+                <label for="selectedImage">选择图片</label>
+                <input type="file" title="" accept="image/png, image/jpeg" id="selectedImage" onchange="changeBackground">
+            </div>
+            <div id="preview">
+                <p>预览</p>
+                <label class="switch">
+                    <input type="checkbox" checked>
+                    <div class="slider round" onclick="toggle()"></div>
+                </label>
+            </div>
+            <div id="clearImage">
+                <input type="button" value="清空选择" id="clearButton" onclick="clearImage()">
+            </div>
+        </div>
+    </div>
+    <script src="./js/main.js"></script>
+</body>
+</html>

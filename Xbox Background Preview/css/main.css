@@ -1,0 +1,110 @@
+body
+{
+    display: table;
+    height: 100vh;
+}
+
+#container
+{
+    display: table-cell;
+    text-align: center;
+}
+
+#pictures
+{
+    position: relative;
+    min-width: 761px;
+    min-height: 428px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+
+#placeholder, #background, #foreground
+{
+    width: 761px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#placeholder
+{
+    z-index: -1;
+}
+
+#background
+{
+    z-index: 0;
+}
+
+#foreground
+{
+    z-index: 1;
+}
+
+#functions
+{
+    display: inline-flex;
+    align-items: center;
+}
+
+#selectImage
+{
+    display: inline-flex;
+    align-items: center;
+    width: 94px;
+    height: 37px;
+    text-align: center;
+    margin-right: 50px;
+    background-color: #64bd63;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#selectImage label
+{
+    width: 100%;
+    cursor: pointer;
+    padding: 8px 15px;
+}
+
+#selectedImage
+{
+    display: none;
+}
+
+#preview
+{
+    display: inline-flex;
+    align-items: center;
+}
+
+#clearImage
+{
+    display: inline-flex;
+    align-items: center;
+    margin-left: 50px;
+}
+
+#clearButton
+{
+    background-color: #64bd63;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#clearButton:hover, #selectImage:hover
+{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
