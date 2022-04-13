@@ -20,3 +20,7 @@ A web tool that helps you preview a background before you apply it to your conso
 ### V0.8.0（2022/4/14 01:00 +08:00)
 * 初次部署应用
 * 基本实现预览壁纸的功能
+  
+## 常见问题
+* Q: 为什么要做这个？直接设置壁纸试试看不就好了吗？
+  A: 闲的蛋疼。
