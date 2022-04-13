@@ -17,7 +17,7 @@ Access it: [Xbox Background Preview](https://tosh1ue.github.io/Xbox-Background-P
 * If you have any complaint or suggestion, please submit issue
   
 ## Q & A
-* Q: Why do you want to build this app? I could just apply apply an image and check out how does it look like.  
+* Q: Why do you want to build this app? I could just apply an image and check out how does it look like.  
   A: Because I thought someone may need it, like me. :)
   
 ## Change Log
