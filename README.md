@@ -11,3 +11,7 @@ A web tool that helps you preview a background before you apply it to your conso
 ![](https://s3.bmp.ovh/imgs/2022/04/14/7417bd7b1eeb8dca.gif)
 ### 切换显示
 ![](https://s3.bmp.ovh/imgs/2022/04/14/6f31438b0c9eee60.gif)
+  
+## 注意事项
+* 目前功能细节待优化（布局调整、图片尺寸自适应等），请尽量上传16:9的标准壁纸图片
+* 如果有意见或者建议，请提交issue
