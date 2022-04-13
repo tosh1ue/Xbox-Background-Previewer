@@ -15,3 +15,8 @@ A web tool that helps you preview a background before you apply it to your conso
 ## 注意事项
 * 目前功能细节待优化（布局调整、图片尺寸自适应等），请尽量上传16:9的标准壁纸图片
 * 如果有意见或者建议，请提交issue
+  
+## 更新日志
+### V0.8.0（2022/4/14 01:00 +08:00)
+* 初次部署应用
+* 基本实现预览壁纸的功能
