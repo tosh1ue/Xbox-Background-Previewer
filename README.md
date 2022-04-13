@@ -7,5 +7,6 @@ A web tool that helps you preview a background before you apply it to your conso
 ## 使用方法
 ### 选择图片
 <video src="videos/chooseImage.mp4" width="800px" height="600px" controls="controls"></video>
+<iframe height=498 width=510 src="./videos/chooseImage.mp4">
 ### 清空图片
 ### 切换显示
